@@ -18,11 +18,11 @@ This is a full-stack AI-powered Code Review Tool that allows users to input code
 
 ### Code Editor Interface
 
-![Code Editor](./assets/screenshots/code-editor.png)
+![Code Editor](./Assets/Screenshot1.png)
 
 ### AI Feedback Output
 
-![Feedback Output](./assets/screenshots/ai-feedback.png)
+![Feedback Output](./Assets/Screenshot2.png)
 
 
 ---
